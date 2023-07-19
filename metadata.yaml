@@ -1,0 +1,38 @@
+_repo: A-voyage-to-Senegal-b-or-Historical-philosophical-and-political-memoirs-relative-to-the-disco__71011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durand, Jean Baptiste Léonard
+    aliases:
+    - Durand, Jean Baptiste Leonard
+    - Durand, Jean-Baptiste-Léonard
+    birthdate: 1742
+    deathdate: 1812
+    gutenberg_agent_id: '56040'
+    url: http://www.gutenberg.org/2009/agents/56040
+    wikipedia: https://fr.wikipedia.org/wiki/Jean-Baptiste-L%C3%A9onard_Durand
+description: ''
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71011'
+  lccn: ca08003270
+language: en
+pgterms:marc904: https://archive.org/details/voyagetosenegalo00dura
+pgterms:marc905: 20230609032555durand
+pgterms:marc906: '1806'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bRichard Phillips, $c1806.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Senegal -- Description and travel'
+- !lcsh 'Africa, Northwest'
+- !lcc 'G'
+- GITenberg
+title: 'A voyage to Senegal : $b or, Historical, philosophical, and political memoirs,
+  relative to the discoveries, establishments and commerce of Europeans in the Atlantic
+  Ocean, from Cape Blanco to the river of Sierra Leone'
+url: http://www.gutenberg.org/ebooks/71011
