@@ -1,5 +1,8 @@
 _repo: A-voyage-to-Senegal-b-or-Historical-philosophical-and-political-memoirs-relative-to-the-disco__71011
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71011-h/images/cover.jpg
 creator:
   author:
     agent_name: Durand, Jean Baptiste Léonard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56040
     wikipedia: https://fr.wikipedia.org/wiki/Jean-Baptiste-L%C3%A9onard_Durand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71011#A-voyage-to-Senegal-b-or-Historical-philosophical-and-political-memoirs-relative-to-the-disco_
 gutenberg_issued: '2023-06-21'
 identifiers:
   gutenberg: '71011'
